@@ -11,7 +11,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
     private RecyclerView rvKeluarga;
     private ArrayList<Keluarga> list = new ArrayList<>();
-    private String title = "Silsilah Keluarga Sujud";
+    private String title = "Silsilah Keluarga Putuadi";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
